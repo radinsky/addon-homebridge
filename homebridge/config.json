@@ -8,6 +8,9 @@
   "boot": "auto",
   "host_network": true,
   "privileged": [],
+  "ports": {
+    "51826/tcp": 51826
+  },
   "map": [
     "config:rw"
   ],
